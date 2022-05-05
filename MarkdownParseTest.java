@@ -26,4 +26,10 @@ public class MarkdownParseTest {
 /**
  * javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
  * java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
+ * 
+ * scp WhereAmI.java cs15lsp22anc@ieng6.ucsd.edu:~/
+ * scp MarkdownParseTest.java cs15lsp22anc@ieng6.ucsd.edu:~/
+ * scp test-file.md cs15lsp22anc@ieng6.ucsd.edu:~/
+ *  
+ *  scp lib/junit-4.13.2.jar cs15lsp22anc@ieng6.ucsd.edu:~/lib/
  */
